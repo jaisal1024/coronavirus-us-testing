@@ -1,6 +1,6 @@
 # coronavirus-us-testing
-Jaisal Friedman
-Mikolaj Debicki 
+Jaisal Friedman, 
+Mikolaj Debicki,  
 Andriy Lunin 
 
 # Data source 
